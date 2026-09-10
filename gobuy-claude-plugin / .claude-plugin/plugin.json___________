@@ -1,0 +1,14 @@
+{
+  "name": "gobuy",
+  "displayName": "GoBuy Product Trust",
+  "version": "1.0.0",
+  "description": "Marketplace-evidence trust scores: a 0-100 Evidence Score with signal breakdown for Amazon, Walmart, Target, and Best Buy listings.",
+  "author": {
+    "name": "GoBuy",
+    "url": "https://gobuy.ai"
+  },
+  "homepage": "https://gobuy.ai/for-agents",
+  "repository": "https://github.com/gobuy-ai/gobuy-claude-plugin",
+  "license": "MIT",
+  "keywords": ["trust", "e-commerce", "reviews", "shopping", "product-trust"]
+}
