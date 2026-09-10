@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gobuy": {
+      "type": "http",
+      "url": "https://mcp.gobuy.ai/mcp"
+    }
+  }
+}
